@@ -1,5 +1,5 @@
 <h1 align="center">Calculadora em JavaScript</h1>
-<script src="https://kit.fontawesome.com/a1caecd084.js" crossorigin="anonymous"></script>
+
 <div align="center">
 <img src="
 https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow">
